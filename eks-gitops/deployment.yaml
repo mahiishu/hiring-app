@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: hiring-app
-          image: maheshwari21/hiring-app:latest
+          image: maheshwari21/hiring-app:5
           ports:
             - containerPort: 8080
 
